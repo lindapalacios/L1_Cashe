@@ -36,12 +36,12 @@ Risks:
 This ambitious project is not without risk. In particular, some possible problems include
 
 Lack of experience by some of the team members in developing software
-
 Inexperience of the entire team in creating mobile games
-
 Lack of time to complete the project
 
-Any additional risks add here
+
+
+
 
 Risk Mitigation Plan:
 To obviate these challenges, the team will perform the following actions for each of the abovementioned risks
@@ -52,7 +52,6 @@ As no team member has experience coding mobile apps we intend to avoid the platf
 
 Many team members have several time commitments outside of this class, and it will be challenging to dedicate the necessary resources to creating this game. As a result, we plan on keeping an efficient schedule (one of our team members has experience leading software projects) and meeting at least once a week (we have already established a meeting time) to ensure equal and effective participation. Moreover, to maintain a manageable scope, our final product will likely only consist of a few functioning waypoints; however, as these nodes share a universal structure, future scaling is possible.
 
-Add associated mitigation plans for above risks here
 
 Version Control:
 We will be using the distributed version control method via a GitHub repository. This will allow us to  both work separately and analyze changes to the main branch before anything is officially pushed. In this way we hope to be individually productive without ever being collectively destructive.
@@ -75,3 +74,13 @@ We will employ HTML and CSS to develop our application’s front end. Additional
 
 Back End:
 We will build this application using a python backend as all of the team members are already familiar with python, and can contribute as necessary to the project. In addition, we will also be utilizing mongoDB because of the way it stores all the data. Because it operates similar to a dictionary, the plan is to store data people upload as value to their geographical coordinates as the key. From then on, we can work to construct a circular radius around the geographical unit, and let data be downloaded if two circular units intersect.
+
+Communication Between Front and Back End:
+Keaton will be the middle man that will work both with the frontend and backend as he has a solid overall understanding of both sides of the programming. He will manage the progress on both ends and make sure that things come together coherently and efficiently. He will also be offering assistance where needed but will mainly be focusing on the back end of the programming.
+
+Technologies and Functionalities:
+
+
+
+
+
