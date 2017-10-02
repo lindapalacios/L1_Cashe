@@ -1,9 +1,6 @@
-# L1_Cashe
-CSCI:3308 Semester Project, Keaton Whitehead, Jason Lubrano, Blake Biskner, Linda Palacios
 Project Proposal
 Team Name: 
-L1 Cache (I was thinking because we are doing a caching game and this is the best cache this might be an ok name, but feel free to change it)
-
+L1 Cache 
 Members: 
 Blake Biskner, Jason Lubrano, Linda Palacios Rivera, Suyog Soti, Keaton Whitehead
 
@@ -80,7 +77,3 @@ Keaton will be the middle man that will work both with the frontend and backend 
 
 Technologies and Functionalities:
 In addition to the HTML, CSS and JavaScript required for the front end development, we will also be utilizing bootstrap, a front end framework, on the project. In the backend, we will utilize Django as the python framework. It is a model view controller framework that will hold our hands as we begin this project, which is a good thing because not all of us are familiar with web development. In addition to Django, we will be using mongoDB as our database because of its relational framework. The relational database framework will be particularly helpful in the data navigation later on in the project. 
-
-
-
-
