@@ -79,7 +79,7 @@ Communication Between Front and Back End:
 Keaton will be the middle man that will work both with the frontend and backend as he has a solid overall understanding of both sides of the programming. He will manage the progress on both ends and make sure that things come together coherently and efficiently. He will also be offering assistance where needed but will mainly be focusing on the back end of the programming.
 
 Technologies and Functionalities:
-
+In addition to the HTML, CSS and JavaScript required for the front end development, we will also be utilizing bootstrap, a front end framework, on the project. In the backend, we will utilize Django as the python framework. It is a model view controller framework that will hold our hands as we begin this project, which is a good thing because not all of us are familiar with web development. In addition to Django, we will be using mongoDB as our database because of its relational framework. The relational database framework will be particularly helpful in the data navigation later on in the project. 
 
 
 
