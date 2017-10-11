@@ -1,7 +1,7 @@
-Project Proposal
-Team Name: 
-L1 Cache 
-Members: 
+Project Proposal  
+Team Name:  
+L1 Cache   
+Members:  
 Blake Biskner, Jason Lubrano, Linda Palacios Rivera, Suyog Soti, Keaton Whitehead
 
 Description:
